@@ -1,0 +1,7 @@
+SourceSets:
+  - name: linter
+    files:
+      - .prettierrc.js
+      - .prettierignore
+      - .eslintrc.json
+      - .eslintignore
