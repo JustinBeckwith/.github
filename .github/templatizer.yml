@@ -1,4 +1,4 @@
-SourceSets:
+sourceSets:
   - name: linter
     files:
       - .prettierrc.js
